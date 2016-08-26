@@ -1,0 +1,15 @@
+Package: com.dubsrepo.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dubsrepo <dubsrepo@outlook.com>
+Filename: ./debs/com.dubsrepo.icons_1.0_iphoneos-arm.deb
+Size: 8844
+MD5sum: b62090a588167592d7088b4bde03373c
+SHA1: 72cc4445fb3b689de5634450307a879ff5d94dd8
+SHA256: eb44725f99ef04260e84b823421f9ef520e13fe79bdec2044801b6bc63ac5bf5
+Section: iWidgets
+Description: Adds Icon Images
+Author: dubsrepo
+Depiction: https://github.com/dubsrepo/dubsrepo.github.io
+Name: icons
+

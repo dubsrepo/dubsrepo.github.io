@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: dubsrepo
+Depiction: https://github.com/dubsrepo/dubsrepo.github.io
+Description: Adds Icon Images
+Maintainer: dubsrepo <dubsrepo@outlook.com>
+Name: icons
+Package: com.dubsrepo.icons
+Section: iWidgets
+Version: 1.0
