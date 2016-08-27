@@ -1,2 +1,2 @@
 # dubsrepo.github.io
-debsrepo
+dubs cydia repo
